@@ -14,3 +14,12 @@ ENDCLASS.
 CLASS zlcl IMPLEMENTATION.
 
 ENDCLASS.
+
+class zlocal DEFINITION.
+
+ENDCLASS.
+
+
+CLASS zlocal implementation.
+
+ENDCLASS.
