@@ -11,7 +11,7 @@ class zle DEFINITION.
 ENDCLASS.
 
 
-CLASS zle IMPLEMENTATION.
+CLASS zle implementation.
 
 ENDCLASS.
 
