@@ -6,7 +6,7 @@
     "skipGeneratedFunctionGroups": true
   },
   "syntax": {
-    "version": "v702",
+    "version": "v757",
     "errorNamespace": "^(Z|Y)"
   },
   "rules": {
